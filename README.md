@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Everaldo Faustino</h1>
-<h3 align="center">A passionate for data analytcs and astronomy too!</h3>
+<h3 align="center">A passionate for data analytcs.</h3>
 
 - 🔭 I’m currently learning on **Python, SQL, Machine Learning, Power BI and Cloud**
 
